@@ -1,3 +1,4 @@
 This is File A
 this is a change to the file A
 this is another change to file a
+this is from VS for feature B branch
